@@ -1,0 +1,29 @@
+ 
+            table {
+                width: 300px;
+                margin: 0 auto;
+                font-size: 24px;
+            }
+            #inputBox {
+                width: 100%;
+                text-align: right;
+                font-size: 24px;
+                padding: 10px;
+                box-sizing: border-box;
+            }
+            td {
+                text-align: center;
+                padding: 15px;
+                cursor: pointer;
+            }
+            .digitButton {
+                background-color: #f0f0f0;
+            }
+            .operatorButton {
+                background-color: #ff9500;
+                color: white;
+            }
+            .ACButton {
+                background-color: #a5a5a5;
+            }
+        
